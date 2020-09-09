@@ -13,13 +13,14 @@ h1 {
     font-family: 'Rozha One', serif;
 }
 
-html {
+
+/* html {
     overflow-x: hidden;
-}
+} */
 
 hr {
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
+    margin-top: 5px;
+    margin-bottom: 5px;
     border-width: 0.5px;
     width: 1440px;
 }
@@ -45,7 +46,7 @@ li {
 .parallaxBackground {
     margin-left: 90px;
     margin-top: 30px;
-    margin-right: auto;
+    /* margin-right: auto; */
     margin-bottom: 50px;
     background-image: url('Cutlery.png');
     height: 700px;
